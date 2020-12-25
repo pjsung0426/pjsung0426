@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello World 👋
+
+프로그래밍 실력은?
+나는 어떤 개발자?
+전공 지식은?
+
+메뉴
+1. Programming
+2. Project
+3. ComputerScience
+
 
 <!--
 **pjsung0426/pjsung0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
